@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Narek, a skilled PHP developer with a passion for building robust and scalable web applications. With years of experience in PHP development, I have a deep understanding of the language and its frameworks such as Laravel and Symfony. I am proficient in handling database management systems like MySQL and PostgreSQL, and I prioritize writing clean, efficient, and well-documented code.   
+Hello, I'm Narek, a skilled PHP developer with a passion for building robust and scalable web applications. With years of experience in PHP development, I have a deep understanding of the language and its frameworks such as Laravel and Symfony. I am proficient in handling database management systems like MySQL and PostgreSQL, and I prioritize writing clean, efficient, and well-documented code. 
 
 
 ## 🌐 Socials:
